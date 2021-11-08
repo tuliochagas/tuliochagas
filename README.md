@@ -3,7 +3,7 @@ My name is Túlio Neves. I'm from Brazil.
 
 ☘️ **You cannot be without talent, but race is an obligation!**
 - 📍 From PA living in Castanhal
-- 🔭 I’m currently working with Systems Analyst at [Sea Telecom](https://www.seatelecom.com.br/)
+- 🔭 I’m currently working with SysAdmin at [GrooveTech](https://www.groove.tech/)
 - 🌱 I'm currently learning HTML, CSS, JavaScript, Monitoring (Zabbix, Grafana).
 - 🌈 I'm passionate about technology
 
