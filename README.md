@@ -4,7 +4,7 @@ My name is Túlio Neves. I'm from Brazil.
 ☘️ **You cannot be without talent, but race is an obligation!**
 - 📍 From PA living in Castanhal
 - 🔭 I’m currently working with SysAdmin at [GrooveTech](https://www.groove.tech/)
-- 🌱 I'm currently learning JavaScript, IaC, Monitoring (Zabbix, Grafana).
+- 🌱 I'm currently learning JavaScript, DevOps and QA(Test).
 - 🌈 I'm passionate about technology
 
 📩 Get in touch with me through my social networks ⤵️
